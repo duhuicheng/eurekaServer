@@ -48,6 +48,12 @@
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
 
+        <!--注册中心安全模块-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
 
     </dependencies>
 
